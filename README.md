@@ -3,7 +3,7 @@
 ## Collect your phone number databases from various sources and check their affiliation with Telegram.
  
  * Описание программы так же доступно на русском языке. См. [NMCH - Image Randomizer RUS](https://github.com/telegram-prime/telegram-numbers-checker-RU)
- * 描述也可以在Chineese中提供。 参见 [NMCH - Image Randomizer CN](https://github.com/telegram-prime/telegram-numbers-checker-CN) [In progress]
+ * 描述也可以在Chineese中提供。 参见 [NMCH - Image Randomizer CN](https://github.com/telegram-prime/telegram-numbers-checker-CN)
 
 ## Features:
  - Checking numbers for the presence of Telegram.
@@ -18,6 +18,7 @@
  - Sorting numbers into valid and invalid in separate reports.
  - Limiting the number of numbers checked per account in one check cycle.
  - Option to clear the account's phone book before checking numbers.
+ - Option to turn OFF GUI logging for mass huge data operation.
  - Supports almost all known proxy providers in both HTTP and SOCKS format.
  - Export results in TXT, CSV, or XLSX formats.
  - Exported data: number, login, Telegram ID.
@@ -46,14 +47,17 @@
 
 ## Screenshots:
 
-![NMCH_EN_001](https://github.com/telegram-prime/telegram-numbers-checker/assets/94137664/27067bf5-c2ef-48a1-90bf-583bf1d58055)
+![image](https://github.com/telegram-prime/telegram-numbers-checker/assets/94137664/30221d58-d5c7-4026-99ae-e2444ee555bc)
+
 
 
 ##  Contacts:
 - Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
-- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Telegram: [Send message](https://telegramprime.net/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.net/icq-contact)
+- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
+- Discord:  [Send message](https://telegramprime.net/discord-contact)
+- Element:  [Send message](https://telegramprime.net/element-contact)
 
 * or via the Contact Form on our Telegram PRIME website:
 - Wеb: https://telegramprime.net/ - EN Version
