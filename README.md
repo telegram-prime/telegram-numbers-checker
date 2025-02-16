@@ -9,7 +9,7 @@
  - Checking numbers for the presence of Telegram.
  - Multi-threaded operation.
  - Ability to set delays between number checks.
- - Works with TDATA, SESSION, and SESSION+JSON accounts.
+ - Works with TDATA, SESSION (Telethon or Pyrogram), and SESSION+JSON (Telethon or Pyrogram) accounts.
  - The SESSION+JSON account type is automatically determined when a JSON file is present in the accounts folder, and its parameters are specifically used to connect to the session.
  - High-speed number checking (when using multiple accounts).
  - Filtering out non-working or restricted accounts.
