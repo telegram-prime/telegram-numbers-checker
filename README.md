@@ -21,7 +21,7 @@
  - Option to turn OFF GUI logging for mass huge data operation.
  - Supports almost all known proxy providers in both HTTP and SOCKS format.
  - Export results in TXT, CSV, or XLSX formats.
- - Exported data: number, login, Telegram ID.
+ - Exported data: number, login, Telegram ID, real name, last online time, premium, photo, birthday, channel, stories, bio.
  - Ability to work without a proxy (for the brave ones :) )
  - Detailed logging of all program activities for each working session in a separate file (can be used as a report for the client).
  - Hardware-bound, with the option to reset the key through a manager. Resetting is free.
@@ -46,20 +46,18 @@
 
 
 ## Screenshots:
-
-![image](https://github.com/telegram-prime/telegram-numbers-checker/assets/94137664/30221d58-d5c7-4026-99ae-e2444ee555bc)
-
+<img width="256" alt="NMCH_1 8_EN_001" src="https://github.com/user-attachments/assets/6a929f77-3b0b-4262-85ef-019782f1ba0b" />
+<img width="256" alt="NMCH_1 8_EN_002" src="https://github.com/user-attachments/assets/cd7da268-7fc6-40af-ab7a-7febb0588eb3" />
 
 
 ##  Contacts:
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.net/icq-contact)
 - TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.net/discord-contact)
 - Element:  [Send message](https://telegramprime.net/element-contact)
 
-* or via the Contact Form on our Telegram PRIME website:
+* or via the Contact Form on website:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
 
