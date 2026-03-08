@@ -71,5 +71,3 @@ No card required – request demo key inside the software
 If NMCH helps you build better audiences — consider buying us a coffee 😄  
 [Donate via NowPayments](https://nowpayments.io/donation/telegramprime)
 
-**Thank you for choosing our tools!**  
-Start collecting real Telegram contacts today.
