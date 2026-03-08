@@ -58,12 +58,14 @@ No card required – request demo key inside the software
 
 ### 📬 Contacts & Support
 
-- 📧 Email: manager@telegramprime.net  
-- Telegram: [Write message](https://telegramprime.net/telegram-contact)  
-- Discord: [Write message](https://telegramprime.net/discord-contact)  
-- Matrix/Element: [Write message](https://telegramprime.net/element-contact)  
-- 🌍 Website EN: https://telegramprime.net/  
-- 🌍 Website RU: https://telegramprime.com/
+| Channel | Link |
+|---------|------|
+| Email | manager[@]telegramprime.net |
+| Telegram | [Send message](https://telegramprime.net/telegram-contact) |
+| Discord | [Send message](https://telegramprime.net/discord-contact) |
+| Element | [Send message](https://telegramprime.net/element-contact) |
+| Website (EN) | https://telegramprime.net/ |
+| Website (RU) | https://telegramprime.com/ |
 
 (or use the contact form on the website)
 
