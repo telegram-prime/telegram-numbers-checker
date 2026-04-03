@@ -46,7 +46,7 @@ No card required – request demo key inside the software
 | Annual        | Unlimited numbers checked           | 365 days                  |
 
 ### 📥 Download
-**Always latest version** → [GitHub Releases](https://github.com/telegram-prime/telegram-numbers-checker/releases/latest)
+**Always latest version** → [Website](https://telegram-checker.com/downloads/nmch/en/latest)
 
 ### 🎬 Video Guide
 [Watch on YouTube](https://youtu.be/3Zr69rco5Z0)
@@ -60,12 +60,11 @@ No card required – request demo key inside the software
 
 | Channel | Link |
 |---------|------|
-| Email | manager[@]telegramprime.net |
-| Telegram | [Send message](https://telegramprime.net/telegram-contact) |
-| Discord | [Send message](https://telegramprime.net/discord-contact) |
-| Element | [Send message](https://telegramprime.net/element-contact) |
-| Website (EN) | https://telegramprime.net/ |
-| Website (RU) | https://telegramprime.com/ |
+| Email | manager[@]telegram-checker.com |
+| Telegram | [Send message](https://telegram-checker.com/telegram-contact) |
+| Discord | [Send message](https://telegram-checker.com/discord-contact) |
+| Element | [Send message](https://telegram-checker.com/element-contact) |
+| Website | https://telegram-checker.com/ |
 
 (or use the contact form on the website)
 
